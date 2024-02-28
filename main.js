@@ -1,0 +1,10 @@
+var name1 = "tabiq";
+console.log(name1);
+var name2 = "muhammad_irfan";
+console.log(name2);
+var age = "24";
+console.log(age);
+var address = "liqutabad no 04 karachi";
+console.log(address);
+var educaion = "3rd year diploma telecommunication";
+console.log(educaion);
